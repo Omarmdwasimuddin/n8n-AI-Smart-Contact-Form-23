@@ -1,0 +1,1 @@
+{{ $now.setZone('Asia/Karachi').toFormat('yyyy-MM-dd HH:mm:ss') }}
