@@ -6,3 +6,5 @@
 c6J4mqYHMMpzbFQ6
 
 #### vs code editor e index.html er modhe test url paste koro.--->click koro: Execute workflow--->index.html file ke open to live kore---> data diye Send Message button click koro. 
+
+#### webhook er + sign click koro--->search & click koro: open ai--->click: Message a model--->
