@@ -10,4 +10,4 @@
 
 #### click koro Message a model er +sign--->search & click: supabase--->click: Create a row--->supabase dashboard e jaw--->supabase er SQL Editor tab e jaw--->query.sql paste koro--->click koro: run--->Create a row er modhe data set korbo[pash theke value ene drag & drop kore dibo]--->click: execute step
 
-#### click koro: Create a row er + sign--->search & click koro: if--->
+#### click koro: Create a row er + sign--->search & click koro: if--->condition set koro[priority high hole message send hobe]--->if er +sign click koro--->search & click: gmail--->click: send a message--->value set koro.
