@@ -1,0 +1,10 @@
+Subject: New High Priority Contact Submission 🚨 
+
+Message:
+
+You have received a new important message from your website.  
+👤 Name: {{$json["name"]}} 
+📧 Email: {{$json["email"]}}  
+💬 Message: "{{$json["message"]}}"  
+🧠 AI Analysis: - Category: {{$json["category"]}} - Priority: {{$json["priority"]}}  
+⚡ Action Required: Please respond to this lead as soon as possible.
